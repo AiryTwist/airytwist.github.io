@@ -1,0 +1,26 @@
+[
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "io.github.airytwist.raspisanie",
+   "sha256_cert_fingerprints": [
+    "15:40:7E:82:D9:A9:56:A9:FA:DB:50:C9:29:49:59:98:59:60:1A:7A:EE:74:E7:E8:60:F3:E8:A7:9D:38:36:B5"
+   ]
+  }
+ },
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "io.github.airytwist.kechengbiao",
+   "sha256_cert_fingerprints": [
+    "B9:C6:89:A1:C4:4C:9A:1D:12:56:DF:1B:42:7B:75:88:FF:08:6A:94:52:88:42:B9:48:F9:12:F7:73:8D:76:4A"
+   ]
+  }
+ }
+]
